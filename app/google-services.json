@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "192932492034",
+    "firebase_url": "https://raspberrytest-e221d.firebaseio.com",
+    "project_id": "raspberrytest-e221d",
+    "storage_bucket": "raspberrytest-e221d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192932492034:android:94aecf77539cfc23",
+        "android_client_info": {
+          "package_name": "com.city.smart.raspberrytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192932492034-0bkuhgk9v1svobq06lftvb6sk2do666f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuk9xW2QFGpAsmHTkJ7RZ8OKvsmHSqSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

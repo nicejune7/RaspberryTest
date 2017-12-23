@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:title="Title1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_alert"
+            android:icon="@drawable/nav_btn_alert"
+            android:title="방문 기록" />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/nav_btn_add_group"
+            android:title="응답 설정" />
+    </group>
+
+</menu>
